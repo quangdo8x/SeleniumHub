@@ -1,0 +1,1 @@
+java -Dwebdriver.chrome.driver=D:\Softs\Selenium\HubServer\chromedriver.exe -jar selenium-server-standalone-3.141.59.jar -role node -hub http://localhost:4444/grid/register -port 4445 -nodeConfig "D:\Softs\Selenium\HubServer\configBrowsers.json"

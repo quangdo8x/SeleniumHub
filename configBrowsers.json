@@ -1,0 +1,25 @@
+{
+  "capabilities": [
+    {
+      "browserName": "MicrosoftEdge",
+      "platform": "WIN10",
+      "maxInstances": 1
+    },
+    {
+      "browserName": "firefox",
+      "platform": "WIN10",
+      "maxInstances": 1
+    },
+    {
+      "browserName": "chrome",
+      "platform": "WIN10",
+      "maxInstances": 1
+    },
+    {
+      "browserName": "internet explorer",
+      "platform": "WIN10",
+      "maxInstances": 1
+    }
+  ],
+  "hub": "http://selenium-hub-host:4444"
+}
